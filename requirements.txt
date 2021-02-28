@@ -1,4 +1,4 @@
-salt==2015.5.5  # last known good version of salt
+salt==3000.8  # last known good version of salt
 apache-libcloud
 pyaml
 paramiko
